@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "9lF5JK23I5g2TyRpBAQWUEvJmLhqaq2TS5Kw5H1ogis7KfR4h/PyEomGLPPwGlHs5uOJxrUPshk/KIVqivUcjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luisd\\source\\repos\\Tarker.Booking\\Tarker.Booking.Common\\Tarker.Booking.Common.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://mdsnuget.azurewebsites.net/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

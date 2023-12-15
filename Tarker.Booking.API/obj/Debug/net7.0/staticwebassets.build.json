@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1iPCwxpgBBPsuiZgsMS6YQjG6bzHrHI7eCFN7uYVfJI=",
+  "Source": "Tarker.Booking.API",
+  "BasePath": "_content/Tarker.Booking.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

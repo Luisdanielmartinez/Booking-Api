@@ -1,0 +1,12 @@
+C:\Users\luisd\source\repos\Tarker.Booking\Tarker.Booking.Domain\bin\Debug\net7.0\Tarker.Booking.Domain.deps.json
+C:\Users\luisd\source\repos\Tarker.Booking\Tarker.Booking.Domain\bin\Debug\net7.0\Tarker.Booking.Domain.dll
+C:\Users\luisd\source\repos\Tarker.Booking\Tarker.Booking.Domain\bin\Debug\net7.0\Tarker.Booking.Domain.pdb
+C:\Users\luisd\source\repos\Tarker.Booking\Tarker.Booking.Domain\obj\Debug\net7.0\Tarker.Booking.Domain.csproj.AssemblyReference.cache
+C:\Users\luisd\source\repos\Tarker.Booking\Tarker.Booking.Domain\obj\Debug\net7.0\Tarker.Booking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisd\source\repos\Tarker.Booking\Tarker.Booking.Domain\obj\Debug\net7.0\Tarker.Booking.Domain.AssemblyInfoInputs.cache
+C:\Users\luisd\source\repos\Tarker.Booking\Tarker.Booking.Domain\obj\Debug\net7.0\Tarker.Booking.Domain.AssemblyInfo.cs
+C:\Users\luisd\source\repos\Tarker.Booking\Tarker.Booking.Domain\obj\Debug\net7.0\Tarker.Booking.Domain.csproj.CoreCompileInputs.cache
+C:\Users\luisd\source\repos\Tarker.Booking\Tarker.Booking.Domain\obj\Debug\net7.0\Tarker.Booking.Domain.dll
+C:\Users\luisd\source\repos\Tarker.Booking\Tarker.Booking.Domain\obj\Debug\net7.0\refint\Tarker.Booking.Domain.dll
+C:\Users\luisd\source\repos\Tarker.Booking\Tarker.Booking.Domain\obj\Debug\net7.0\Tarker.Booking.Domain.pdb
+C:\Users\luisd\source\repos\Tarker.Booking\Tarker.Booking.Domain\obj\Debug\net7.0\ref\Tarker.Booking.Domain.dll
