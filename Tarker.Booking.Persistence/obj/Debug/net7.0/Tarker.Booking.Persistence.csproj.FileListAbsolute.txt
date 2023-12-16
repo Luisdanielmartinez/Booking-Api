@@ -10,3 +10,8 @@ C:\Users\luisd\source\repos\Tarker.Booking\Tarker.Booking.Persistence\obj\Debug\
 C:\Users\luisd\source\repos\Tarker.Booking\Tarker.Booking.Persistence\obj\Debug\net7.0\refint\Tarker.Booking.Persistence.dll
 C:\Users\luisd\source\repos\Tarker.Booking\Tarker.Booking.Persistence\obj\Debug\net7.0\Tarker.Booking.Persistence.pdb
 C:\Users\luisd\source\repos\Tarker.Booking\Tarker.Booking.Persistence\obj\Debug\net7.0\ref\Tarker.Booking.Persistence.dll
+C:\Users\luisd\source\repos\Tarker.Booking\Tarker.Booking.Persistence\bin\Debug\net7.0\Tarker.Booking.Application.dll
+C:\Users\luisd\source\repos\Tarker.Booking\Tarker.Booking.Persistence\bin\Debug\net7.0\Tarker.Booking.Domain.dll
+C:\Users\luisd\source\repos\Tarker.Booking\Tarker.Booking.Persistence\bin\Debug\net7.0\Tarker.Booking.Application.pdb
+C:\Users\luisd\source\repos\Tarker.Booking\Tarker.Booking.Persistence\bin\Debug\net7.0\Tarker.Booking.Domain.pdb
+C:\Users\luisd\source\repos\Tarker.Booking\Tarker.Booking.Persistence\obj\Debug\net7.0\Tarker.Booking.Persistence.csproj.CopyComplete

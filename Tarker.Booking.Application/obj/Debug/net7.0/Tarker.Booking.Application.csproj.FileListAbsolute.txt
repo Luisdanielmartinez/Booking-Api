@@ -10,3 +10,6 @@ C:\Users\luisd\source\repos\Tarker.Booking\Tarker.Booking.Application\obj\Debug\
 C:\Users\luisd\source\repos\Tarker.Booking\Tarker.Booking.Application\obj\Debug\net7.0\refint\Tarker.Booking.Application.dll
 C:\Users\luisd\source\repos\Tarker.Booking\Tarker.Booking.Application\obj\Debug\net7.0\Tarker.Booking.Application.pdb
 C:\Users\luisd\source\repos\Tarker.Booking\Tarker.Booking.Application\obj\Debug\net7.0\ref\Tarker.Booking.Application.dll
+C:\Users\luisd\source\repos\Tarker.Booking\Tarker.Booking.Application\bin\Debug\net7.0\Tarker.Booking.Domain.dll
+C:\Users\luisd\source\repos\Tarker.Booking\Tarker.Booking.Application\bin\Debug\net7.0\Tarker.Booking.Domain.pdb
+C:\Users\luisd\source\repos\Tarker.Booking\Tarker.Booking.Application\obj\Debug\net7.0\Tarker.Booking.Application.csproj.CopyComplete
